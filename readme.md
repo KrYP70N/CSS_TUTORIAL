@@ -8,3 +8,6 @@ In this module, you can refer role of CSS in Web Development
 ## CONTENT
 
 [Lesson 01 : CSS Syntax and Selectors](./01_SYNTAX_AND_SELECTOR/syntax_selector.md)
+
+[Lesson 02 : Inline, Internal and External CSS](./02_INLINE_INTERNAL_EXTERNAL/inline-internal-external.md)
+
